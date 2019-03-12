@@ -1,0 +1,62 @@
+body{
+    background-color:#282726 ; 
+    color: #E1DFDD;
+}
+#burger_pic{
+width: 300px;
+position: fixed;
+top:0;
+
+
+}
+.container{
+    margin-top: 20px;
+}
+
+#new{
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-end;
+}
+
+#title{ 
+    text-align: center;
+}
+h4{
+    text-align: center;
+    width: 100%;
+}
+.btn{
+    background-color: #E78005  ; 
+}
+.burger_name{
+    text-align: right;
+    font-size: 1.5rem;
+}
+.remove{
+    background-color: transparent;
+    color: white;
+    padding-left: 0;
+}
+
+#new_burger{
+    width:50%;
+    height: 40px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#burger{
+
+    width: 20%;
+    text-align: center;
+    margin: auto;
+}
+
+.remove_col{
+    padding-left: 0;
+}
+
+.row{
+    margin: 10px 0;
+}

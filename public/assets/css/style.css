@@ -1,0 +1,9 @@
+#not_eaten, #eaten{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+div{
+    border: 5px solid red;
+}
